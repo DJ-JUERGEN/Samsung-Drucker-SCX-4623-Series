@@ -15,7 +15,7 @@
  
  LÖSUNG DES PROBLEMS:
  Achtet bitte darauf, allen ausführbaren Dateien (z.B. install.sh) im Ordner "uld" Ausführungsrecht zuzuweisen
-    sudo chmod +x install.sh
+ >>   sudo chmod +x install.sh
  
  Ich hab das im Eifer des Gefechts übersehen, deswegen konnte ich auf dem zweiten Rechner die Installation nicht durchführen.
  Nach der Änderung funktionierte alles wunderbar !!
