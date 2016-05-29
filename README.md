@@ -6,4 +6,4 @@
 
  Fehlt ein Befehl/Kommando in meinem System ? Terminal meldet "Befehl nicht gefunden", das war's.
  
- Die kompletten Treiber und install-/uninstall-Dateien befinden sich im File "uld"
+ Die kompletten Treiber und install-/uninstall-Dateien befinden sich im File "uld_v1.00.36_00.91.tar.gz"
